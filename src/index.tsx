@@ -9,7 +9,7 @@ const styles = css`
     // font-family: -apple-system, BlinkMacSystemFont, 'Sarala', 'PT Mono', 'Laila', 'Segoe UI', 'Roboto', 'Oxygen',
     //     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', monospace, sans-serif;
     font-family: 'Alegreya Sans SC', sans-serif;
-    background: #dad1ee;
+    background: #1a1528;
     overflow: hidden;
 `
 const body = document.getElementById('root')?.parentElement
